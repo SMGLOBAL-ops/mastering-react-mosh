@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 //import Counter from './components/counter'; 
 import 'bootstrap/dist/css/bootstrap.css';
-import 'font-awesome/css/font-awesome.css'; 
+import '../node_modules/font-awesome/css/font-awesome.min.css';
 
 
 ReactDOM.render(
